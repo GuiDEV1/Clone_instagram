@@ -7,22 +7,22 @@ import { IconContext } from 'react-icons';
 
 
 
-export function Post () {
+export function Post1 () {
     return (
         <>
           <header className='header-post'>
             
             <div className="infos-post">
-                  <img className='img-header-post' src="https://cdn.discordapp.com/attachments/773372240686350356/1028772480141234186/logo_instituto_proa.jpg" />
+                  <img className='img-header-post' src="https://cdn.discordapp.com/attachments/773372240686350356/1028896695444054096/Hope_of_chaos_Logo.png" />
 
-                  <p>Instituto Proa</p>
+                  <p>Hope of chaos</p>
             </div>
 
                    <FiMoreHorizontal />
           </header>
 
           <div className='img-post'>
-              <img src='https://cdn.discordapp.com/attachments/773372240686350356/1029531849300652082/post_intan.png'/>
+              <img src='https://cdn.discordapp.com/attachments/773372240686350356/1028896695091744768/Trailer_-_GitHub.png'/>
           </div>
 
           <div className='footer-post'>
