@@ -17,7 +17,7 @@
 <h3 style="text-align: center;">Pré visualização</h3>
 
 
-<img src="https://cdn.discordapp.com/attachments/773372240686350356/1029832770706477126/previsualizacao.gif" alt="">
+<img src="/Assents/previsualização.gif" alt="" width="500px" height="300px">
 
  <a href = "">Visualização do projeto</a>
 
