@@ -44,12 +44,12 @@ export function Post1 () {
           </IconContext.Provider>  
 
           <section className='like'>
-                <span>500 curtidas</span>  
+                <span>832 curtidas</span>  
           </section>
 
           <div className='legend'>
               <p>
-                 <strong>instituto.proa</strong> 😱 Quer estudar e trabalhar com programação? Essa é a sua oportunidade!👾...
+                 <strong>Hope of chaos</strong> ⚔️ Enfrente inimigos medievais e futuristas, salve a estabilidade temporal! 🎮...
               </p>
           </div>
 
